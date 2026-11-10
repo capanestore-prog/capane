@@ -1,0 +1,6 @@
+{
+  "name": "Capane Store — Mercado de Gold e Tibia Coin",
+  "description": "Marketplace de Gold Coins, Tibia Coins, Sets, Relíquias e Minerais para MMORPGs com checkout PIX automático e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
